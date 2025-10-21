@@ -7,7 +7,7 @@ The dashboard provides insights into restaurant performance, order trends, custo
 
 ## 📊 Dashboard Overview
 
-![Zomato Dashboard](e9fe65e9-a909-47d1-b58c-39ed778d43f1.png)
+![Zomato Dashboard](Dashboard Screenshot.png)
 
 **Key KPIs Displayed:**
 - **Total Orders:** 1K  
